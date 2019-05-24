@@ -1,1 +1,1 @@
-include ':app',  ':text_media',':cmake_mediacodec'
+include ':app',  ':text_media',':cmake_mediacodec',':cmake_mediacodec_c'
